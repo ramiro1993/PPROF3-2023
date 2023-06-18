@@ -3,7 +3,9 @@ package com.example.proyectofinal;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
@@ -86,8 +88,9 @@ public class Login extends AppCompatActivity {
                                 progressBar.setVisibility(View.GONE);
                                 if (task.isSuccessful()) {
                                     Toast.makeText(getApplicationContext(), "Login Successfiñ", Toast.LENGTH_SHORT).show();
-                                    Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                                    startActivity(intent);
+                                    //Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                                    SharedPreferences sharedPreferences = getSharedPreferences("shared_prefs", Context.MODE_PRIVATE);
+                                    startActivity(new Intent(Login.this,HomeActivity.class));
                                     finish();
                                 } else {
                                     Toast.makeText(Login.this, "Authentication failed.", Toast.LENGTH_SHORT).show();
