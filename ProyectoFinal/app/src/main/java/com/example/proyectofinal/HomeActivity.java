@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Toast;
 
 public class HomeActivity extends AppCompatActivity {
 
@@ -17,7 +18,6 @@ public class HomeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_home);
 
         SharedPreferences sharedPreferences = getSharedPreferences("shared_prefs", Context.MODE_PRIVATE);
-
 
         CardView exit = findViewById(R.id.cardExit);
         exit.setOnClickListener(new View.OnClickListener() {
