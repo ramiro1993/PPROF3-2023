@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+<<<<<<< HEAD:ProyectoFinal/.idea/vcs.xml
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+=======
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+>>>>>>> d2b83c7fc5da61f6e2e31c80951e32928a715793:AndroidStudioProjects/ProyectoFinal/.idea/vcs.xml
   </component>
 </project>
