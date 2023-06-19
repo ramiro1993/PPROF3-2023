@@ -66,19 +66,33 @@
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
                 android:orientation="vertical">
-
-                <VideoView
-                    android:layout_width="100dp"
-                    android:layout_height="70dp"
-                    android:src="@drawable/family_physicians" />
-
                 <TextView
+                    android:id="@+id/buffering_textview"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Tutorial"
+                    android:layout_margin="8dp"
+                    android:text="Video"
+                    android:textSize="18sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
                     android:textAlignment="center"
                     android:textColor="@color/material_dynamic_tertiary99"
                     android:textStyle="bold" />
+
+                <VideoView
+                    android:id="@+id/videoview"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_margin="8dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintDimensionRatio="4:3"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"/>
+
+
 
 
             </LinearLayout>

@@ -20,7 +20,7 @@ import androidx.cardview.widget.CardView;
 public class OrderDetails extends AppCompatActivity {
 
     private TextView mBufferingTextView;
-    private static final String VIDEO_SAMPLE = "mivideo.mp4";
+    private static final String VIDEO_SAMPLE = "/raw/mivideo.mp4";
     private VideoView mVideoView;
     private int mCurrentPosition = 0;
     private static final String PLAYBACK_TIME = "play_time";
@@ -56,7 +56,7 @@ public class OrderDetails extends AppCompatActivity {
 
 
 
-       // mVideoView = findViewById(R.id.videoview);
+        mVideoView = findViewById(R.id.videoview);
         if (savedInstanceState != null) {
             mCurrentPosition = savedInstanceState.getInt(PLAYBACK_TIME);
         }
@@ -65,7 +65,7 @@ public class OrderDetails extends AppCompatActivity {
 
         mVideoView.setMediaController(controlador);
 
-       // mBufferingTextView = findViewById(R.id.buffering_textview);
+        mBufferingTextView = findViewById(R.id.buffering_textview);
     }
 
 
