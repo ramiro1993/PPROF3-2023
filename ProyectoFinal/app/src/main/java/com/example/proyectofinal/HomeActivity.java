@@ -54,6 +54,13 @@ public class HomeActivity extends AppCompatActivity {
                 startActivity(new Intent(HomeActivity.this,BuyMedicineActivity.class));
             }
         });
+        CardView HealthArticles = findViewById(R.id.cardHealthArticles);
+        HealthArticles.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(HomeActivity.this,HealthArticlesActivity.class));
+            }
+        });
 
         }
     }
