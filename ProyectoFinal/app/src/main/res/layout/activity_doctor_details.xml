@@ -12,15 +12,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="24*7 Healthcare"
-        android:textColor="#fff"
+        android:textColor="@color/material_on_primary_emphasis_medium"
         android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.045"
-        />
+        app:layout_constraintVertical_bias="0.045" />
 
     <TextView
         android:id="@+id/textViewDDTitle"
@@ -34,12 +33,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textViewDDName"
-        app:layout_constraintVertical_bias="0.01999998"
-        />
-
+        app:layout_constraintVertical_bias="0.01999996" />
+    
     <ListView
         android:id="@+id/listViewDD"
-        android:layout_width="wrap_content"
+        android:layout_width="350dp"
         android:layout_height="500dp"
         android:layout_margin="10dp"
         android:layout_marginStart="16dp"
@@ -49,18 +47,18 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textViewDDTitle"
+
         />
 
     <Button
-        android:id="@+id/buttomDDBack"
+        android:id="@+id/buttonDDBack"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="BACK"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintVertical_bias="0.69"
-        />
+        app:layout_constraintVertical_bias="0.69" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
