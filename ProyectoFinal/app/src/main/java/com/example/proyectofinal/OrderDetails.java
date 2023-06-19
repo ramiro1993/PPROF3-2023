@@ -20,7 +20,7 @@ import androidx.cardview.widget.CardView;
 public class OrderDetails extends AppCompatActivity {
 
     private TextView mBufferingTextView;
-    private static final String VIDEO_SAMPLE = "mivideo.mp4";
+    private static final String VIDEO_SAMPLE = "mivideo";
     private VideoView mVideoView;
     private int mCurrentPosition = 0;
     private static final String PLAYBACK_TIME = "play_time";
@@ -32,6 +32,27 @@ public class OrderDetails extends AppCompatActivity {
         setContentView(R.layout.activity_order_details);
         SharedPreferences sharedPreferences = getSharedPreferences("shared_prefs", Context.MODE_PRIVATE);
 
+        CardView exit = findViewById(R.id.cardFDSalir);
+        exit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                SharedPreferences.Editor editor = sharedPreferences.edit();
+                editor.clear();
+                editor.apply();
+                startActivity(new Intent(OrderDetails.this, HomeActivity.class));
+
+            }
+        });
+
+
+
+        CardView Tutorial = findViewById(R.id.cardFDTutorial);
+        Tutorial.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //      startActivity(new Intent(HomeActivity.this,OrderDetails.class));
+            }
+        });
 
 
 
