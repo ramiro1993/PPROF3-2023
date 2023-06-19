@@ -21,6 +21,7 @@ public class OrderDetails extends AppCompatActivity {
 
     private TextView mBufferingTextView;
     private static final String VIDEO_SAMPLE = "/raw/mivideo.mp4";
+    //private static final String VIDEO_SAMPLE = "android.resource://" + BuildConfig.APPLICATION_ID + "/" + R.raw.mivideo; en teoria con este comando tendria reproducir el video
 
     private VideoView mVideoView;
     private int mCurrentPosition = 0;
