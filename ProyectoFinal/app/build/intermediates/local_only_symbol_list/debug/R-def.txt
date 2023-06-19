@@ -37,9 +37,12 @@ id btn_login
 id btn_register
 id buffering_textview
 id buttonDDBack
+id button_ejercicios
 id button_farmacity
 id button_gralpaz
 id button_lider
+id button_prevencion
+id button_recetas
 id cardBuyMedicine
 id cardExit
 id cardFDBack
@@ -51,7 +54,7 @@ id cardFDSalir
 id cardFDSurgeon
 id cardFDTutorial
 id cardFindDoctor
-id cardHealthDoctor
+id cardHealthArticles
 id cardLabTest
 id cardOrderDetails
 id email
@@ -76,6 +79,7 @@ id videoview
 layout activity_buy_medicine
 layout activity_doctor_details
 layout activity_find_doctor
+layout activity_health_articles
 layout activity_home
 layout activity_login
 layout activity_main
@@ -95,6 +99,9 @@ mipmap ic_launcher_round
 raw mivideo
 string app_name
 string articulos_de_salud
+string articulos_de_salud_ejercios
+string articulos_de_salud_prevencion
+string articulos_de_salud_recetas
 string button_back
 string cardi_logo
 string click_to_login

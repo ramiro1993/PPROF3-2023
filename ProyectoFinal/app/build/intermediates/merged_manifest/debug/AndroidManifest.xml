@@ -31,6 +31,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Material3.Light" >
         <activity
+            android:name="com.example.proyectofinal.HealthArticlesActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.proyectofinal.BuyMedicineActivity"
             android:exported="false" />
         <activity

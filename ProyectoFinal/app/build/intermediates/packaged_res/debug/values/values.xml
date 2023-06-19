@@ -4,6 +4,9 @@
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">HealthJourneyApp</string>
     <string name="articulos_de_salud">ARTICULOS DE SALUD</string>
+    <string name="articulos_de_salud_ejercios">EJERCIOS SALUDABLES</string>
+    <string name="articulos_de_salud_prevencion">PREVENSION DE ENFEREMEDADES</string>
+    <string name="articulos_de_salud_recetas">RECETAS SALUDABLES</string>
     <string name="button_back">REGRESAR</string>
     <string name="cardi_logo">CARDIÓLOGO</string>
     <string name="click_to_login">Presione para acceder</string>

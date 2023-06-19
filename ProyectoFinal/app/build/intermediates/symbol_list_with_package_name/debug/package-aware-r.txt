@@ -2684,9 +2684,12 @@ id btn_register
 id buffering_textview
 id buttonDDBack
 id buttonPanel
+id button_ejercicios
 id button_farmacity
 id button_gralpaz
 id button_lider
+id button_prevencion
+id button_recetas
 id cache_measures
 id callMeasure
 id cancel_button
@@ -2701,7 +2704,7 @@ id cardFDSalir
 id cardFDSurgeon
 id cardFDTutorial
 id cardFindDoctor
-id cardHealthDoctor
+id cardHealthArticles
 id cardLabTest
 id cardOrderDetails
 id carryVelocity
@@ -3186,6 +3189,7 @@ layout abc_tooltip
 layout activity_buy_medicine
 layout activity_doctor_details
 layout activity_find_doctor
+layout activity_health_articles
 layout activity_home
 layout activity_login
 layout activity_main
@@ -3325,6 +3329,9 @@ string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
 string articulos_de_salud
+string articulos_de_salud_ejercios
+string articulos_de_salud_prevencion
+string articulos_de_salud_recetas
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
 string button_back
