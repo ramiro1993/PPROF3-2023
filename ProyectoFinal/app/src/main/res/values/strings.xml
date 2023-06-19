@@ -18,11 +18,14 @@
     <string name="dentist">DENTISTA</string>
     <string name="find_doctor">BUSCAR DOCTOR</string>
     <string name="healthjourney_title">HealthJourney</string>
-    <string name="farmacias_general_paz">Ir a Farmacias General Paz</string>
-    <string name="farmacity">ir a Farmacity</string>
-    <string name="farmacias_l_der">Ir a Farmacias Líder</string>
+    <string name="farmacias_general_paz">IR A FARMACIAS GENERAL PAZ</string>
+    <string name="farmacity">IR A FARMACITY</string>
+    <string name="farmacias_l_der">IR A FARMACIAS LIDER</string>
     <string name="farmacias_title">FARMACIAS</string>
     <string name="ex_menes">EXÁMENES</string>
     <string name="video_tutorial">VIDEO TUTORIAL</string>
     <string name="articulos_de_salud">ARTICULOS DE SALUD</string>
+    <string name="articulos_de_salud_ejercios">EJERCIOS SALUDABLES</string>
+    <string name="articulos_de_salud_recetas">RECETAS SALUDABLES</string>
+    <string name="articulos_de_salud_prevencion">PREVENSION DE ENFEREMEDADES</string>
 </resources>
