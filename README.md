@@ -1,4 +1,14 @@
-![logo](https://github.com/ramiro1993/PPROF3-2023/blob/angie_primeraRama/medical-app%20(3).png?raw=true) Bienvenidos a HealthJourney!
+# Bienvenidos a HealthJourney ![logo](https://github.com/ramiro1993/PPROF3-2023/blob/angie_primeraRama/medical-app%20(3).png?raw=true)
+
+## Integrantes:
+*  Angeles Daniela Franco
+*  Pablo Nicolas Villalba
+*  Martin Mecodangelo
+*  Ramiro Gomez
+*  Matias Sacchi
+*  Augusto Molina
+
+## Sobre el proyecto
 
 HealthJourney es una aplicación móvil diseñada para facilitar el control y seguimiento de tus atenciones médicas personales. Con HealthJourney, puedes organizar y gestionar de manera eficiente toda tu información médica en un solo lugar.
 
