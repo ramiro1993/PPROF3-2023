@@ -20,11 +20,8 @@ import androidx.cardview.widget.CardView;
 public class OrderDetails extends AppCompatActivity {
 
     private TextView mBufferingTextView;
-<<<<<<< HEAD
-    private static final String VIDEO_SAMPLE = "mivideo";
-=======
     private static final String VIDEO_SAMPLE = "/raw/mivideo.mp4";
->>>>>>> 2c6cd1661f76a7679f80aa0361b572a7d03816b8
+
     private VideoView mVideoView;
     private int mCurrentPosition = 0;
     private static final String PLAYBACK_TIME = "play_time";
