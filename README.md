@@ -1,4 +1,5 @@
-Bienvenidos a HealthJourney! 
+Bienvenidos a HealthJourney! ![logo](https://github.com/ramiro1993/PPROF3-2023/blob/angie_primeraRama/medical-app%20(3).png?raw=true)
+
 HealthJourney es una aplicación móvil diseñada para facilitar el control y seguimiento de tus atenciones médicas personales. Con HealthJourney, puedes organizar y gestionar de manera eficiente toda tu información médica en un solo lugar.
 
 Registra los detalles de tus visitas a diferentes especialistas médicos, mantén un historial actualizado de tus resultados de estudios de laboratorio y exámenes médicos, y programa recordatorios para tus próximas citas médicas. HealthJourney te ayuda a tener un control completo sobre tu salud y bienestar.
