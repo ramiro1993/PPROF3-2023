@@ -21,6 +21,7 @@ public class OrderDetails extends AppCompatActivity {
 
     private TextView mBufferingTextView;
     private static final String VIDEO_SAMPLE = "/raw/mivideo.mp4";
+
     private VideoView mVideoView;
     private int mCurrentPosition = 0;
     private static final String PLAYBACK_TIME = "play_time";
@@ -50,7 +51,7 @@ public class OrderDetails extends AppCompatActivity {
         Tutorial.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-          //      startActivity(new Intent(HomeActivity.this,OrderDetails.class));
+                //      startActivity(new Intent(HomeActivity.this,OrderDetails.class));
             }
         });
 
