@@ -4,6 +4,11 @@ buildscript {
     }
 }// Top-level build file where you can add configuration options common to all sub-projects/modules.
 plugins {
+<<<<<<< HEAD
     id 'com.android.application' version '8.0.1' apply false
     id 'com.android.library' version '8.0.1' apply false
+=======
+    id 'com.android.application' version '8.0.2' apply false
+    id 'com.android.library' version '8.0.2' apply false
+>>>>>>> 2c6cd1661f76a7679f80aa0361b572a7d03816b8
 }
