@@ -103,5 +103,4 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-common:20.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-components:17.0.1@aar" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="ProyectoFinal.app.main" />
 </module>

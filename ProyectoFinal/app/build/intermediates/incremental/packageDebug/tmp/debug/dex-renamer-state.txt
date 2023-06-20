@@ -1,8 +1,8 @@
-#Mon Jun 19 19:38:00 ART 2023
-base.0=E\:\\Dev\\Ispc\\AppMovilesFinalRepo\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=E\:\\Dev\\Ispc\\AppMovilesFinalRepo\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=E\:\\Dev\\Ispc\\AppMovilesFinalRepo\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.3=E\:\\Dev\\Ispc\\AppMovilesFinalRepo\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Mon Jun 19 21:37:55 ART 2023
+base.0=C\:\\Users\\Martin\\Desktop\\Proyecto final\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\Martin\\Desktop\\Proyecto final\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\Martin\\Desktop\\Proyecto final\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.3=C\:\\Users\\Martin\\Desktop\\Proyecto final\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=5/classes.dex
