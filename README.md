@@ -1,4 +1,4 @@
-# Bienvenidos a HealthJourney ![logo](https://github.com/ramiro1993/PPROF3-2023/blob/angie_segundaRama/ProyectoFinal/app/src/main/res/drawable/medical-app%20(3).png?raw=true)
+# Bienvenidos a HealthJourney ![logo](https://github.com/ramiro1993/PPROF3-2023/blob/main/ProyectoFinal/app/src/main/res/drawable/logo_app.png?raw=true)
 
 ## Integrantes:
 *  Angeles Daniela Franco
