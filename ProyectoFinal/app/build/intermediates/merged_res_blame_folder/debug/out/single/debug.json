@@ -64,20 +64,20 @@
         "source": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxhdpi\\ic_healtlogo_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\layout\\activity_home.xml"
-    },
-    {
         "merged": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxxhdpi_ic_healthlogo_launcher.png.flat",
         "source": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxxhdpi\\ic_healthlogo_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-hdpi_ic_healtlogo_launcher_background.png.flat",
-        "source": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-hdpi\\ic_healtlogo_launcher_background.png"
+        "merged": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\layout\\activity_home.xml"
     },
     {
         "merged": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-hdpi_ic_healtlogo_launcher_background.png.flat",
+        "source": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-hdpi\\ic_healtlogo_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
@@ -96,12 +96,12 @@
         "source": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\calendar.xml"
     },
     {
-        "merged": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\raw_mivideo.mp4.flat",
-        "source": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\raw\\mivideo.mp4"
-    },
-    {
         "merged": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\raw_mivideo.mp4.flat",
+        "source": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\raw\\mivideo.mp4"
     },
     {
         "merged": "C:\\Users\\Wolf\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_dietician.jpg.flat",

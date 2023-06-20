@@ -2680,7 +2680,7 @@ int id browser_actions_menu_items 0x7f080067
 int id browser_actions_menu_view 0x7f080068
 int id btn_login 0x7f080069
 int id btn_register 0x7f08006a
-int id buffering_textview 0x7f08006b
+int id button2 0x7f08020f
 int id buttonDDBack 0x7f08006c
 int id buttonPanel 0x7f08006d
 int id button_ejercicios 0x7f08006e
@@ -2699,9 +2699,7 @@ int id cardFDCardiologists 0x7f08007a
 int id cardFDDentist 0x7f08007b
 int id cardFDDietician 0x7f08007c
 int id cardFDFamilyPhysician 0x7f08007d
-int id cardFDSalir 0x7f08007e
 int id cardFDSurgeon 0x7f08007f
-int id cardFDTutorial 0x7f080080
 int id cardFindDoctor 0x7f080081
 int id cardHealthArticles 0x7f08020e
 int id cardLabTest 0x7f080083
@@ -3080,7 +3078,6 @@ int id up 0x7f0801f7
 int id useLogo 0x7f0801f8
 int id user_details 0x7f0801f9
 int id vertical_only 0x7f0801fa
-int id videoview 0x7f0801fb
 int id view_offset_helper 0x7f0801fc
 int id view_transition 0x7f0801fd
 int id view_tree_lifecycle_owner 0x7f0801fe
@@ -3089,6 +3086,7 @@ int id view_tree_saved_state_registry_owner 0x7f080200
 int id view_tree_view_model_store_owner 0x7f080201
 int id visible 0x7f080202
 int id visible_removing_fragment_view_tag 0x7f080203
+int id vv1 0x7f080210
 int id west 0x7f080204
 int id wide 0x7f080205
 int id withText 0x7f080206

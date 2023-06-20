@@ -35,7 +35,7 @@ drawable surgeon
 drawable widgets
 id btn_login
 id btn_register
-id buffering_textview
+id button2
 id buttonDDBack
 id button_ejercicios
 id button_farmacity
@@ -50,9 +50,7 @@ id cardFDCardiologists
 id cardFDDentist
 id cardFDDietician
 id cardFDFamilyPhysician
-id cardFDSalir
 id cardFDSurgeon
-id cardFDTutorial
 id cardFindDoctor
 id cardHealthArticles
 id cardLabTest
@@ -75,7 +73,7 @@ id title
 id titleFindDoctor
 id titleFindDoctorTop
 id user_details
-id videoview
+id vv1
 layout activity_buy_medicine
 layout activity_doctor_details
 layout activity_find_doctor

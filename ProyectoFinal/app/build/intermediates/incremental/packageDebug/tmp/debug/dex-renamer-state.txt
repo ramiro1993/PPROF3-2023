@@ -1,4 +1,4 @@
-#Mon Jun 19 22:38:04 ART 2023
+#Mon Jun 19 23:11:29 ART 2023
 base.0=E\:\\Dev\\Ispc\\AppMovilesFinalRepo\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=E\:\\Dev\\Ispc\\AppMovilesFinalRepo\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=E\:\\Dev\\Ispc\\AppMovilesFinalRepo\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
