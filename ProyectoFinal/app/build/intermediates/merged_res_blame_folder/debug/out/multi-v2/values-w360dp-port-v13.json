@@ -4,7 +4,11 @@
             "outputFile": "com.example.proyectofinal.app-mergeDebugResources-31:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\angel\\.gradle\\caches\\transforms-3\\7a04553ca9af6ddbf476fcc7c860a00a\\transformed\\material-1.5.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+=======
+                    "source": "C:\\Users\\Martin\\.gradle\\caches\\transforms-3\\7a04553ca9af6ddbf476fcc7c860a00a\\transformed\\material-1.5.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+>>>>>>> 09474245de2a49985b53d6bdea2ef08b9443a98c
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

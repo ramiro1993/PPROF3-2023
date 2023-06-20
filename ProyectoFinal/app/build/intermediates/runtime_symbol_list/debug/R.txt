@@ -3044,6 +3044,7 @@ int id textSpacerNoButtons 0x7f0801d3
 int id textSpacerNoTitle 0x7f0801d4
 int id textStart 0x7f0801d5
 int id textTop 0x7f0801d6
+int id textView2 0x7f08020f
 int id textViewDDName 0x7f0801d7
 int id textViewDDTitle 0x7f0801d8
 int id text_input_end_icon 0x7f0801d9

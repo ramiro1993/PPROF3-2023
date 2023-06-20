@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 #Mon Jun 19 20:16:04 ART 2023
 base.0=C\:\\Users\\angel\\AndroidStudioProjects\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\angel\\AndroidStudioProjects\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\angel\\AndroidStudioProjects\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
 base.3=C\:\\Users\\angel\\AndroidStudioProjects\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+=======
+#Mon Jun 19 21:37:55 ART 2023
+base.0=C\:\\Users\\Martin\\Desktop\\Proyecto final\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\Martin\\Desktop\\Proyecto final\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\Martin\\Desktop\\Proyecto final\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.3=C\:\\Users\\Martin\\Desktop\\Proyecto final\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+>>>>>>> 09474245de2a49985b53d6bdea2ef08b9443a98c
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=5/classes.dex

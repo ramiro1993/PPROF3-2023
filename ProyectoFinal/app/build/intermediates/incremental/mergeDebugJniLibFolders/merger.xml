@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\angel\AndroidStudioProjects\PPROF3-2023\ProyectoFinal\app\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\angel\AndroidStudioProjects\PPROF3-2023\ProyectoFinal\app\src\debug\jniLibs"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Martin\Desktop\Proyecto final\PPROF3-2023\ProyectoFinal\app\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Martin\Desktop\Proyecto final\PPROF3-2023\ProyectoFinal\app\src\debug\jniLibs"/></dataSet></merger>
+>>>>>>> 09474245de2a49985b53d6bdea2ef08b9443a98c
