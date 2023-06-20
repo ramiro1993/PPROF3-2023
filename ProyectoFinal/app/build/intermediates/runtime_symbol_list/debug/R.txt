@@ -2703,7 +2703,7 @@ int id cardFDSalir 0x7f08007e
 int id cardFDSurgeon 0x7f08007f
 int id cardFDTutorial 0x7f080080
 int id cardFindDoctor 0x7f080081
-int id cardHealthArticles 0x7f08020e
+int id cardHealthArticles 0x7f080082
 int id cardLabTest 0x7f080083
 int id cardOrderDetails 0x7f080084
 int id carryVelocity 0x7f080085
