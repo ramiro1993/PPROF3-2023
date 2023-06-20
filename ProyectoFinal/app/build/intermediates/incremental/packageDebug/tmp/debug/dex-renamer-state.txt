@@ -1,4 +1,4 @@
-#Tue Jun 20 00:09:52 ART 2023
+#Tue Jun 20 00:57:35 ART 2023
 base.0=C\:\\Users\\Nico\\Desktop\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\Nico\\Desktop\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\Nico\\Desktop\\PPROF3-2023\\ProyectoFinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
