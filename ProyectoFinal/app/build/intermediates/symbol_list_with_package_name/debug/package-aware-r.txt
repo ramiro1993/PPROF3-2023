@@ -2681,7 +2681,7 @@ id browser_actions_menu_items
 id browser_actions_menu_view
 id btn_login
 id btn_register
-id buffering_textview
+id button2
 id buttonDDBack
 id buttonPanel
 id button_ejercicios
@@ -2700,9 +2700,7 @@ id cardFDCardiologists
 id cardFDDentist
 id cardFDDietician
 id cardFDFamilyPhysician
-id cardFDSalir
 id cardFDSurgeon
-id cardFDTutorial
 id cardFindDoctor
 id cardHealthArticles
 id cardLabTest
@@ -2757,8 +2755,10 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id detalle
 id dialog_button
 id dimensions
+id direccion
 id direct
 id disableHome
 id disableIntraAutoTransition
@@ -2906,6 +2906,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -2924,6 +2925,7 @@ id north
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id numero
 id off
 id on
 id onInterceptTouchReturnSwipe
@@ -3046,7 +3048,6 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textViewDDName
-id textViewDDTitle
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3081,7 +3082,6 @@ id up
 id useLogo
 id user_details
 id vertical_only
-id videoview
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -3090,6 +3090,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id vv1
 id west
 id wide
 id withText
@@ -3186,6 +3187,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_book_appointment
 layout activity_buy_medicine
 layout activity_doctor_details
 layout activity_find_doctor
@@ -3365,6 +3367,9 @@ string copy_toast_msg
 string default_web_client_id
 string dentist
 string description_logos
+string detalle
+string detalle_del_profecional
+string direcci_n
 string email
 string error_icon_content_description
 string ex_menes
@@ -3389,6 +3394,7 @@ string healthjourney
 string healthjourney_title
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
+string iniciar_la_reproduccion
 string item_view_role_description
 string login
 string logo_healthjourney_app
@@ -3474,6 +3480,8 @@ string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string mtrl_timepicker_confirm
+string nombre_completo
+string numero_de_contacto
 string nutricionist
 string password
 string password_toggle_content_description
@@ -3486,6 +3494,7 @@ string register
 string search_menu_title
 string status_bar_notification_info_overflow
 string surgeon_logo
+string textViewDDName
 string video_tutorial
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

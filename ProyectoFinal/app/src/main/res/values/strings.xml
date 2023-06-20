@@ -28,4 +28,11 @@
     <string name="articulos_de_salud_ejercios">EJERCIOS SALUDABLES</string>
     <string name="articulos_de_salud_recetas">RECETAS SALUDABLES</string>
     <string name="articulos_de_salud_prevencion">PREVENSION DE ENFEREMEDADES</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="direcci_n">Dirección</string>
+    <string name="numero_de_contacto">Numero de contacto</string>
+    <string name="textViewDDName">Healthjourney</string>
+    <string name="detalle_del_profecional">Detalle del profesional</string>
+    <string name="detalle">detalle del profesional</string>
+    <string name="iniciar_la_reproduccion">Iniciar la reproduccion</string>
 </resources>
