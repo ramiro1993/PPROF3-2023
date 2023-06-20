@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
+    android:background="@drawable/back2"
     tools:context=".MainActivity">
 
     <TextView
@@ -16,6 +17,7 @@
     
     <Button
         android:text="@string/logout"
+        android:textColor="@color/white"
         android:id="@+id/logout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />

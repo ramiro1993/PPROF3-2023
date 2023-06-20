@@ -13,18 +13,15 @@ import android.widget.MediaController;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.VideoView;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
 
 public class OrderDetails extends AppCompatActivity {
 
-    private TextView mBufferingTextView;
-    private static final String VIDEO_SAMPLE = "mivideo.mp4";
-    private VideoView mVideoView;
-    private int mCurrentPosition = 0;
-    private static final String PLAYBACK_TIME = "play_time";
-    private int mPosiciónActual = 0;
+
+    public VideoView vv1;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,119 +29,56 @@ public class OrderDetails extends AppCompatActivity {
         setContentView(R.layout.activity_order_details);
         SharedPreferences sharedPreferences = getSharedPreferences("shared_prefs", Context.MODE_PRIVATE);
 
-        CardView exit = findViewById(R.id.cardFDSalir);
-        exit.setOnClickListener(new View.OnClickListener() {
+        vv1 =(VideoView) findViewById(R.id.vv1);
+
+    }
+
+
+    public void iniciar(View v)
+    {
+        vv1.setVideoURI(Uri.parse("https://rr2---sn-bg0eznsy.googlevideo.com/videoplayback?expire=1687249924&ei=pA-RZOi6DKKLx_APruq7wAo&ip=141.193.20.227&id=o-AEjiTS1QEISuX6WZ-RUpuiJEUtFbS1T0I9Z850HKOiF1&itag=18&source=youtube&requiressl=yes&spc=qEK7B_Esecs2OahyVUBXnTGpZUqbs8M18t_jhIO-sg&vprv=1&svpuc=1&mime=video%2Fmp4&ns=-jhBdLSxF8yyAqbVqAUv_HsN&gir=yes&clen=2638128&ratebypass=yes&dur=50.665&lmt=1667823371675523&fexp=24007246,24350017&beids=24350017&c=WEB&txp=6219224&n=x4LZfi5hO7Spnw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgdDMZwTVQMD0jBJjw36z4oHPEiST0ZAG-6-jupTIbcN8CIQDqMwDgWOlLTce7lMsb_09PPFXvqfeM0fCxYC29wDJ9sA%3D%3D&redirect_counter=1&cm2rm=sn-5hnesy7z&req_id=7ddc4088f7aa3ee&cms_redirect=yes&cmsv=e&mh=68&mip=181.1.12.121&mm=34&mn=sn-bg0eznsy&ms=ltu&mt=1687227892&mv=m&mvi=2&pl=22&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgbL8bsSAWNnYyX-gcBcbemXw4dLRAbjVgwbJDJne15qECIGK6H0xDWwuWjqwVSCB3i5uOJAyIMwgURNoZxM8FjDIs"));
+
+        vv1.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
             @Override
-            public void onClick(View view) {
-                SharedPreferences.Editor editor = sharedPreferences.edit();
-                editor.clear();
-                editor.apply();
-                startActivity(new Intent(OrderDetails.this, HomeActivity.class));
+            public void onPrepared(MediaPlayer mp) {
+                vv1.start();
+
 
             }
+
+
         });
 
 
+    }
+    public void pausar(View v)
+    {
+        vv1.pause();
+    }
+    public void continuar(View v)
+    {
+        vv1.start();
+    }
 
-        CardView Tutorial = findViewById(R.id.cardFDTutorial);
-        Tutorial.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-          //      startActivity(new Intent(HomeActivity.this,OrderDetails.class));
-            }
-        });
+          /* CardView exit = findViewById(R.id.cardFDSalir);
+         exit.setOnClickListener(new View.OnClickListener() {
+        @Override public void onClick(View view) {
+        SharedPreferences.Editor editor = sharedPreferences.edit();
+        editor.clear();
+        editor.apply();
+        startActivity(new Intent(OrderDetails.this, HomeActivity.class));
 
-
-
-       // mVideoView = findViewById(R.id.videoview);
-        if (savedInstanceState != null) {
-            mCurrentPosition = savedInstanceState.getInt(PLAYBACK_TIME);
         }
-        MediaController controlador = new MediaController(this);
-        controlador.setMediaPlayer(mVideoView);
-
-        mVideoView.setMediaController(controlador);
-
-       // mBufferingTextView = findViewById(R.id.buffering_textview);
-    }
-
-
-
-    private Uri getMedia(String mediaName) {
-        //      return Uri.parse("android.resource://" + getPackageName() +
-        //            "/raw/" + mediaName);
-        if (URLUtil.isValidUrl(mediaName)) {
-// media name is an external URL
-            return Uri.parse(mediaName);
-        } else { // media name is a raw resource embedded in the app
-            return Uri.parse("android.resource://" + getPackageName() +
-                    "/raw/" + mediaName);
-        }
-    }
-
-
-    private void initializePlayer() {
-        mBufferingTextView.setVisibility(VideoView.VISIBLE);
-
-        Uri videoUri = getMedia(VIDEO_SAMPLE);
-        mVideoView.setVideoURI(videoUri);
-
-        mVideoView.start();
-        mVideoView.setOnPreparedListener(
-                new MediaPlayer.OnPreparedListener() {
-                    @Override
-                    public void onPrepared(MediaPlayer mediaPlayer) {
-                        mBufferingTextView.setVisibility(VideoView.INVISIBLE);
-                        if (mCurrentPosition > 0) {
-                            mVideoView.seekTo(mCurrentPosition);
-                        } else {
-                            mVideoView.seekTo(1);
-                        }
-                        mVideoView.start();
-                    }});
-        mVideoView.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
-            @Override
-            public void onCompletion(MediaPlayer mediaPlayer) {
-// Implementation here.
-            }
         });
-        mVideoView.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
-            @Override
-            public void onCompletion(MediaPlayer mediaPlayer) {
-                Toast.makeText(OrderDetails.this, "Playback completed",
-                        Toast.LENGTH_SHORT).show();
-                mVideoView.seekTo(1);
-            }
-        });
-
-    }
+*/
 
 
-    private void releasePlayer() {
-        mVideoView.stopPlayback();
-    }
-    @Override
-    protected void onStart() {
-        super.onStart();
-        initializePlayer();
-    }
-    @Override
-    protected void onStop() {
-        super.onStop();
-        releasePlayer();
-    }
-    @Override
-    protected void onSaveInstanceState(Bundle outState) {
-        super.onSaveInstanceState(outState);
-        outState.putInt(PLAYBACK_TIME, mVideoView.getCurrentPosition());
-    }
-    @Override
-    protected void onPause() {
-        super.onPause();
-        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.N) {
-            mVideoView.pause();
-        }
-    }
+
+
+
+
+
+
 
 
 }

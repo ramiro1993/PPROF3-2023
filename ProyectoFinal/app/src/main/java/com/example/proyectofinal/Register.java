@@ -71,12 +71,12 @@ public class Register extends AppCompatActivity {
                 password = String.valueOf(editTextPassword.getText());
 
                 if (TextUtils.isEmpty(email)) {
-                    Toast.makeText(Register.this, "Enter email", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Register.this, "Ingrese email", Toast.LENGTH_SHORT).show();
                     return;
                 }
 
                 if (TextUtils.isEmpty(password)) {
-                    Toast.makeText(Register.this, "Enter password", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Register.this, "Ingrese contraseña", Toast.LENGTH_SHORT).show();
                     return;
                 }
                 mAuth.createUserWithEmailAndPassword(email, password)
@@ -87,11 +87,11 @@ public class Register extends AppCompatActivity {
                                 if (task.isSuccessful()) {
 
                                     // Sign in success, update UI with the signed-in user's information
-                                    Toast.makeText(Register.this, "Account created.",
+                                    Toast.makeText(Register.this, "Cuenta creada exitosamente.",
                                             Toast.LENGTH_SHORT).show();
                                 } else {
                                     // If sign in fails, display a message to the user.
-                                    Toast.makeText(Register.this, "Authentication failed.",
+                                    Toast.makeText(Register.this, "Autenticación errónea.",
                                             Toast.LENGTH_SHORT).show();
                                 }
                             }

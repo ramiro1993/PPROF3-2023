@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
+    android:background="@drawable/back2"
 
     tools:context=".FindDoctorActivity">
     
@@ -17,7 +17,7 @@
         android:layout_marginTop="12dp"
         android:layout_marginEnd="12dp"
         android:layout_marginBottom="12dp"
-        android:text="24 * 7 HEALTHCARE"
+        android:text="@string/healthjourney_title"
         android:textColor="#fff"
         android:textSize="30sp"
         android:textStyle="bold" />
@@ -32,7 +32,7 @@
         android:layout_marginTop="56dp"
         android:layout_marginEnd="12dp"
         android:layout_marginBottom="12dp"
-        android:text="24 * 7 HEALTHCARE"
+        android:text="@string/find_doctor"
         android:textColor="#fff777"
         android:textSize="20sp"
         android:textStyle="bold" />
@@ -64,15 +64,17 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="70dp"
-                    android:src="@drawable/family_physicians" />
+                    android:src="@drawable/medico"
+                    android:contentDescription="@string/description_logos" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="FAMILY PHYSICIANS"
+                    android:text="@string/family_doctor"
                     android:textAlignment="center"
                     android:textColor="@color/material_dynamic_tertiary99"
                     android:textStyle="bold" />
@@ -101,15 +103,19 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="70dp"
-                    android:src="@drawable/dietician" />
+                    android:src="@drawable/nutricionista"
+                    tools:ignore="ImageContrastCheck"
+                    android:contentDescription="@string/description_logos"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="DIETICIAN"
+                    android:text="@string/nutricionist"
                     android:textAlignment="center"
                     android:textColor="@color/material_dynamic_tertiary99"
                     android:textStyle="bold" />
@@ -139,15 +145,17 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="70dp"
-                    android:src="@drawable/dentist" />
+                    android:src="@drawable/dentista"
+                    android:contentDescription="@string/description_logos"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="DENTIST"
+                    android:text="@string/dentist"
                     android:textAlignment="center"
                     android:textColor="@color/material_dynamic_tertiary99"
                     android:textStyle="bold" />
@@ -177,15 +185,17 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical|center_horizontal"
             android:gravity="center"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            tools:ignore="UseCompoundDrawables">
             <ImageView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:src="@drawable/surgeon" />
+                android:src="@drawable/cirujano"
+                android:contentDescription="@string/description_logos"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="SURGEON"
+                android:text="@string/surgeon_logo"
                 android:textAlignment="center"
                 android:textColor="@color/material_dynamic_tertiary99"
                 android:textStyle="bold" />
@@ -215,15 +225,19 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="70dp"
-                    android:src="@drawable/cardiologists" />
+                    android:src="@drawable/cardiologo"
+                    tools:ignore="ImageContrastCheck"
+                    android:contentDescription="@string/description_logos"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="CARDIOLOGISTS"
+                    android:text="@string/cardi_logo"
                     android:textAlignment="center"
                     android:textColor="@color/material_dynamic_tertiary99"
                     android:textStyle="bold" />
@@ -253,15 +267,20 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="70dp"
-                    android:src="@drawable/info" />
+                    android:contentDescription="@string/description_logos"
+                    android:src="@drawable/info"
+                    tools:ignore="ImageContrastCheck" />
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="BACK"
+                    android:text="@string/button_back"
                     android:textAlignment="center"
                     android:textColor="@color/material_dynamic_tertiary99"
                     android:textStyle="bold" />
