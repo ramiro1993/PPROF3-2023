@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_cardiologo.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\cardiologo.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_medical_app.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\medical_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xhdpi_ic_healtlogo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xhdpi\\ic_healtlogo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_health3.jpeg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\health3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxxhdpi_ic_healtlogo_launcher_background.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxxhdpi\\ic_healtlogo_launcher_background.png"
+    },
+    {
+        "merged": "com.example.proyectofinal.app-merged_res-33:/layout_activity_order_details.xml.flat",
+        "source": "com.example.proyectofinal.app-main-35:/layout/activity_order_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxhdpi_ic_healtlogo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxhdpi\\ic_healtlogo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_info.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xhdpi_ic_healthlogo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xhdpi\\ic_healthlogo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_widgets.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\widgets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xhdpi_ic_healthlogo_launcher.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xhdpi\\ic_healthlogo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-mdpi_ic_healtlogo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-mdpi\\ic_healtlogo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-mdpi_ic_healtlogo_launcher.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-mdpi\\ic_healtlogo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxxhdpi_ic_healthlogo_launcher.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxxhdpi\\ic_healthlogo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxxhdpi_ic_healthlogo_launcher_background.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxxhdpi\\ic_healthlogo_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_family_physicians.jpg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\family_physicians.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxhdpi_ic_healthlogo_launcher.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxhdpi\\ic_healthlogo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-hdpi_ic_healthlogo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-hdpi\\ic_healthlogo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_back1.jpg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\back1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxhdpi_ic_healtlogo_launcher.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxhdpi\\ic_healtlogo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_calendar.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxhdpi_ic_healthlogo_launcher_background.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxhdpi\\ic_healthlogo_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-mdpi_ic_healthlogo_launcher_background.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-mdpi\\ic_healthlogo_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\layout_activity_buy_medicine.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\layout\\activity_buy_medicine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-hdpi_ic_healthlogo_launcher.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-hdpi\\ic_healthlogo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xhdpi_ic_healthlogo_launcher_round.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xhdpi\\ic_healthlogo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xhdpi_ic_healtlogo_launcher_round.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xhdpi\\ic_healtlogo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_medico.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\medico.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_nutricionista.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\nutricionista.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxxhdpi_ic_healthlogo_launcher_round.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxxhdpi\\ic_healthlogo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_cardiologists.jpg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\cardiologists.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_dentist.jpg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\dentist.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\layout_activity_doctor_details.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\layout\\activity_doctor_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxxhdpi_ic_healtlogo_launcher_round.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxxhdpi\\ic_healtlogo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\layout_activity_health_articles.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\layout\\activity_health_articles.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-mdpi_ic_healtlogo_launcher_background.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-mdpi\\ic_healtlogo_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_chat.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_ic_baseline_security_24.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xhdpi_ic_healtlogo_launcher_background.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xhdpi\\ic_healtlogo_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxhdpi_ic_healtlogo_launcher_background.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxhdpi\\ic_healtlogo_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\layout_activity_find_doctor.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\layout\\activity_find_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-anydpi-v26_ic_healthlogo_launcher.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-anydpi-v26\\ic_healthlogo_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_back2.jpg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\back2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-mdpi_ic_healthlogo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-mdpi\\ic_healthlogo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-mdpi_ic_healthlogo_launcher.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-mdpi\\ic_healthlogo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\layout_multi_lines.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\layout\\multi_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-hdpi_ic_healtlogo_launcher_background.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-hdpi\\ic_healtlogo_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_health2.jpeg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\health2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-mdpi_ic_healtlogo_launcher_round.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-mdpi\\ic_healtlogo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-hdpi_ic_healtlogo_launcher.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-hdpi\\ic_healtlogo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_cirujano.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\cirujano.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxxhdpi_ic_healthlogo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxxhdpi\\ic_healthlogo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\raw_mivideo.mp4.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\raw\\mivideo.mp4"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_health1.jpeg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\health1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_surgeon.jpeg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\surgeon.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_health4.jpeg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\health4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xhdpi_ic_healthlogo_launcher_background.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xhdpi\\ic_healthlogo_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-anydpi-v26_ic_healtlogo_launcher_round.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-anydpi-v26\\ic_healtlogo_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xhdpi_ic_healtlogo_launcher.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xhdpi\\ic_healtlogo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-hdpi_ic_healthlogo_launcher_background.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-hdpi\\ic_healthlogo_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\layout_activity_order_details.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\layout\\activity_order_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_dentista.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\dentista.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-hdpi_ic_healtlogo_launcher_round.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-hdpi\\ic_healtlogo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-mdpi_ic_healthlogo_launcher_round.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-mdpi\\ic_healthlogo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxhdpi_ic_healthlogo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxhdpi\\ic_healthlogo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-hdpi_ic_healthlogo_launcher_round.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-hdpi\\ic_healthlogo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxxhdpi_ic_healtlogo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxxhdpi\\ic_healtlogo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxhdpi_ic_healtlogo_launcher_round.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxhdpi\\ic_healtlogo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-anydpi-v26_ic_healtlogo_launcher.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-anydpi-v26\\ic_healtlogo_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxhdpi_ic_healthlogo_launcher_round.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxhdpi\\ic_healthlogo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-anydpi-v26_ic_healthlogo_launcher_round.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-anydpi-v26\\ic_healthlogo_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-xxxhdpi_ic_healtlogo_launcher.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-xxxhdpi\\ic_healtlogo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_logo_app.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\mipmap-hdpi_ic_healtlogo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\mipmap-hdpi\\ic_healtlogo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_health5.jpeg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\health5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_dietician.jpg.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\dietician.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-merged_res-33:\\drawable_language.xml.flat",
+        "source": "C:\\Users\\Martin\\.gradle\\daemon\\8.0\\com.example.proyectofinal.app-main-35:\\drawable\\language.xml"
+    }
+]
