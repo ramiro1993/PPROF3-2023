@@ -64,6 +64,15 @@
                     android:textColor="@color/white"
                     android:textStyle="bold" />
 
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="83dp"
+                    android:layout_height="wrap_content"
+                    android:text="PROXIMAMENTE"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="10sp" />
+
 
             </LinearLayout>
 
@@ -235,6 +244,7 @@
             android:layout_rowWeight="1"
             android:layout_columnWeight="1"
             android:layout_gravity="fill"
+            app:cardBackgroundColor="@color/cardview_dark_background"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
             app:cardUseCompatPadding="true"

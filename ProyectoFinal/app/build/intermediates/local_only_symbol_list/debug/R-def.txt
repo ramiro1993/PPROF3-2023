@@ -69,6 +69,7 @@ id logout
 id password
 id progressBar
 id registerNow
+id textView2
 id textViewDDName
 id textViewDDTitle
 id title

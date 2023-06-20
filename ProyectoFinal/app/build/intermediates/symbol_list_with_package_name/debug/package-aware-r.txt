@@ -3045,6 +3045,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView2
 id textViewDDName
 id textViewDDTitle
 id text_input_end_icon
