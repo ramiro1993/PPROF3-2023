@@ -2681,7 +2681,7 @@ id browser_actions_menu_items
 id browser_actions_menu_view
 id btn_login
 id btn_register
-id buffering_textview
+id button2
 id buttonDDBack
 id buttonPanel
 id button_ejercicios
@@ -2700,9 +2700,7 @@ id cardFDCardiologists
 id cardFDDentist
 id cardFDDietician
 id cardFDFamilyPhysician
-id cardFDSalir
 id cardFDSurgeon
-id cardFDTutorial
 id cardFindDoctor
 id cardHealthArticles
 id cardLabTest
@@ -3082,7 +3080,6 @@ id up
 id useLogo
 id user_details
 id vertical_only
-id videoview
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -3091,6 +3088,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id vv1
 id west
 id wide
 id withText
